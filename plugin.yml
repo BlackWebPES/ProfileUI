@@ -5,4 +5,4 @@ main: Infernus101\Main
 version: 4.2.0
 commands:
   profile:
-    description: Player profile UI!
+    description: Player Profile-UI
